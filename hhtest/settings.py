@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     #'bootstrapform',
     # 'django-croppie',
     'croppie',
-    'rest_framework',
+    #'rest_framework',
 ]
 
 MIDDLEWARE = [
