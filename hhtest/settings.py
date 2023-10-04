@@ -38,10 +38,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'insta',
-    #'bootstrapform',
+    'bootstrapform',
     # 'django-croppie',
     'croppie',
-    #'rest_framework',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
