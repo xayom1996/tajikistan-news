@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'insta',
-    'bootstrapform',
+    'django-bootstrap-form',
     # 'django-croppie',
     'croppie',
     'rest_framework',
